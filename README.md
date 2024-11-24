@@ -11,6 +11,12 @@ After importing the data, I performed exploratory analysis using SQL. This step 
 3. Data Visualization and Dashboard Creation\
 Following the EDA, I extracted the data and visualized them in an interactive Power BI dashboard. The dashboard includes multiple pages to showcase participants, medals, subjects, adn province, making the findings easily understandable and actionable.
 
+### Preview 
+![image](https://github.com/user-attachments/assets/dc9a803b-6381-4464-be5f-a2a8268fd014)
+![image](https://github.com/user-attachments/assets/e916d0cc-afdd-413a-becc-75083a3e097e)
+
+
+
 ## Explore the Results
 Read more about my analysis in this [article](https://medium.com/p/dc9ca66c2880/edit).\
 Check out the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzUxMzhjZTUtNzk3NS00ODhlLTgxMTUtYTdhZDFhNWRjYzkwIiwidCI6IjQ0ZTgzNWFmLWYwNWUtNGY3ZS1iNDdjLTcxOGZjMTg1NDgxYyIsImMiOjEwfQ%3D%3D)
