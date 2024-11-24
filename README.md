@@ -12,8 +12,8 @@ After importing the data, I performed exploratory analysis using SQL. This step 
 Following the EDA, I extracted the data and visualized them in an interactive Power BI dashboard. The dashboard includes multiple pages to showcase participants, medals, subjects, adn province, making the findings easily understandable and actionable.
 
 ### Preview 
-![image](https://github.com/user-attachments/assets/dc9a803b-6381-4464-be5f-a2a8268fd014)
-![image](https://github.com/user-attachments/assets/e916d0cc-afdd-413a-becc-75083a3e097e)
+<img src=https://github.com/user-attachments/assets/dc9a803b-6381-4464-be5f-a2a8268fd014 alt="drawing" width="800"/>
+<img src=https://github.com/user-attachments/assets/e916d0cc-afdd-413a-becc-75083a3e097e alt="drawing" width="800"/>
 
 
 
