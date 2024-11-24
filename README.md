@@ -1,10 +1,17 @@
-# Exploratory-Data-Analysis-Indonesia-OSN-SQL
 ## Objective
-This project demonstrates how data analysis can reveal meaningful insights into educational trends and achievements. By uncovering these trends, I aim to show the power of data analysis in understanding the performance and demographics of students in Indonesia’s National Science Olympiad.
-## Key Steps in the Process:
-1. Data Import and Preparation,
-I started by obtaining the OSN dataset from [Kaggle](https://www.kaggle.com/datasets/anakpindahan/indonesia-national-science-olympiad-osn). The data was in CSV format, which I imported into PostgreSQL using pgAdmin. After creating the database and corresponding tables, I ensured that the column names matched the CSV file structure to successfully load the data.
-2. Exploratory Analysis & Queries,
-After importing the data, I used SQL queries to derive insights from the dataset. 
-4. Exploring Insights & Visualizations,
-After exploring core questions like trends in participation, medal distribution, gender distribution, and performance across provinces and subjects. These insights were then visualized using Power BI to make the findings more accessible.
+This project showcases how data analysis can uncover valuable insights into educational trends and achievements. By analyzing the dataset, I aim to highlight the role of data in understanding the performance and demographics of participants in Indonesia’s National Science Olympiad (OSN).
+
+## Key Steps in the Process
+1. Data Collection and Preparation\
+I began by obtaining the OSN dataset from [Kaggle](https://www.kaggle.com/datasets/anakpindahan/indonesia-national-science-olympiad-osn), available in CSV format. Using pgAdmin, I imported the data into PostgreSQL, designed a database schema, and created tables with column names aligned to the dataset structure to ensure a smooth import process.
+
+2. Exploratory Data Analysis (EDA)\
+After importing the data, I performed exploratory analysis using SQL. This step involved designing and running queries to uncover key insights about participation trends, medal distributions, gender representation, and performance across provinces and subjects.
+
+3. Data Visualization and Dashboard Creation\
+Following the EDA, I extracted the data and visualized them in an interactive Power BI dashboard. The dashboard includes multiple pages to showcase participants, medals, subjects, adn province, making the findings easily understandable and actionable.
+
+## Explore the Results
+Read more about my analysis in this [article](https://medium.com/p/dc9ca66c2880/edit).\
+Check out the interactive Power BI dashboard [here](https://app.powerbi.com/view?r=eyJrIjoiMzUxMzhjZTUtNzk3NS00ODhlLTgxMTUtYTdhZDFhNWRjYzkwIiwidCI6IjQ0ZTgzNWFmLWYwNWUtNGY3ZS1iNDdjLTcxOGZjMTg1NDgxYyIsImMiOjEwfQ%3D%3D)
+
